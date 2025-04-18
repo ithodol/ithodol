@@ -21,8 +21,8 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tools </h2> <br> 
         <div style="margin: ; text-align: left;" "text-align: left;">
-<img src="https://img.shields.io/badge/eclipseide-525C86?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-            
+          <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+          <img src="https://img.shields.io/badge/eclipseide-525C86?style=for-the-badge&logo=eclipseide&logoColor=white"/>
         </div>
     </div>
     <div style="text-align: left;">
