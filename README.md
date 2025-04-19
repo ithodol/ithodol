@@ -33,7 +33,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔥 Project </h2> <br>
         <div style="text-align: left;">
-            <h3><li>💨 [ BUSKING ] Spring & React</li></h3>
+            <h3><li>[ BUSKING ] Spring & React</li></h3>
             <h4>버스 좌석 예매 키오스크</h4>
             <div>
                 > 기간 : 2025.03.04 ~ 2025.03.31 <br>
