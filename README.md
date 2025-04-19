@@ -41,6 +41,7 @@
                 <li>링크 : <a href="https://github.com/Ryuyena0305/busking_project">busking_project</a></li>
             </ul>
         </div>  <br> 
+        > 기간 : 
     <div style="text-align: left;">  </div> 
     </div>
     <br><br><br>
