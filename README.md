@@ -33,8 +33,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔥 Project </h2> <br>
         <div style="text-align: left;">
-            <h3><li>[ BUSKING ] Spring & React</li></h3>
-            <h4>버스 좌석 예매 키오스크</h4>
+            <h3><li>Spring & React</li></h3>
+            <h4>[ BUSKING ]<br>버스 좌석 예매 키오스크</h4>
             <div style="border-left:3px solid #d8dee4;">
                 > 기간 : 2025.03.04 ~ 2025.03.31 <br>
                 > 인원 : 4명 <br>
