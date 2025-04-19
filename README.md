@@ -52,7 +52,7 @@
         </div>  <br><br>
         <div style="text-align: left;">
         <h3>[ JOBKOREA ]<br>취업 지원 시스템</h3>
-        <h4>JAVA Concole</h4>            
+        <h4>JAVA Console</h4>            
         <ul>
             <li>기간 : 2025.01.03 ~ 2025.01.17</li>
             <li>인원 : 3명</li> 
