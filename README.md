@@ -35,11 +35,11 @@
         <div style="text-align: left;">
             <h3>[ BUSKING ]<br>버스 좌석 예매 키오스크</h3>
             <h4>Spring & React</h4>            
-            <div>
+            <ul>
                 <li>기간 : 2025.03.04 ~ 2025.03.31</li> <br>
                 <li>인원 : 4명</li> <br>
                 <li>링크 : <a href="https://github.com/Ryuyena0305/busking_project">busking_project</a></li>
-            </div>
+            </ul>
         </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
