@@ -50,6 +50,15 @@
                 <li>링크 : <a href="https://github.com/ithodol/recycle_project">recycle_project</a></li>
             </ul>
         </div>  <br><br>
+        <div style="text-align: left;">
+        <h3>[ JOBKOREA ]<br>취업 지원 시스템</h3>
+        <h4>JAVA Concole</h4>            
+        <ul>
+            <li>기간 : 2025.01.03 ~ 2025.01.17</li>
+            <li>인원 : 3명</li> 
+            <li>링크 : <a href="https://github.com/leeminjin0827/job-project/tree/master/jobkorea/src/jobkorea">jobkorea_project</a></li>
+        </ul>
+        </div>  <br><br>
     <div style="text-align: left;">  </div> 
     </div>
     <br><br><br>
