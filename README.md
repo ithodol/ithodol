@@ -31,6 +31,16 @@
     </div>
     <br><br><br>
     <div style="text-align: left;">
+        <h3>[ HeartGaurd ]<br>골든타임 구조 플랫폼</h3>
+        <h4>Spring & Flutter</h4>            
+        <ul>
+            <li>기간 : 2025.04.14 ~ 2025.05.13</li>
+            <li>인원 : 4명</li> 
+            <li>링크 : <a href="https://github.com/2mxnxu/HeartGaurd_Project">HeartGaurd_Project</a></li>
+            <li>링크 : <a href="https://github.com/minwoo817/heartguard_project_app">HeartGaurd_Project_App</a></li>
+        </ul>
+    </div>  <br><br>
+    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔥 Project </h2>
         <div style="text-align: left;">
             <h3>[ BUSKING ]<br>버스 좌석 예매 키오스크</h3>
@@ -51,13 +61,13 @@
             </ul>
         </div>  <br><br>
         <div style="text-align: left;">
-        <h3>[ JOBKOREA ]<br>취업 지원 시스템</h3>
-        <h4>JAVA Console</h4>            
-        <ul>
-            <li>기간 : 2025.01.03 ~ 2025.01.17</li>
-            <li>인원 : 3명</li> 
-            <li>링크 : <a href="https://github.com/leeminjin0827/job-project/tree/master/jobkorea/src/jobkorea">jobkorea_project</a></li>
-        </ul>
+            <h3>[ JOBKOREA ]<br>취업 지원 시스템</h3>
+            <h4>JAVA Console</h4>            
+            <ul>
+                <li>기간 : 2025.01.03 ~ 2025.01.17</li>
+                <li>인원 : 3명</li> 
+                <li>링크 : <a href="https://github.com/leeminjin0827/job-project/tree/master/jobkorea/src/jobkorea">jobkorea_project</a></li>
+            </ul>
         </div>  <br><br>
     <div style="text-align: left;">  </div> 
     </div>
