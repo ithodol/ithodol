@@ -33,7 +33,7 @@
     <br><br><br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔥 Project </h2>
         <div style="text-align: left;">
-            <h3>[ ReadMe ]<br>도서 관리 프로그램</h3>
+            <h3>[ ReadMe ]<br>도서 관리 시스템</h3>
             <h4>PHP</h4>            
             <ul>
                 <li>기간 : 2025.07.01 ~ (진행 중)</li>
