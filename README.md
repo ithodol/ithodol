@@ -37,7 +37,7 @@
             <h4>PHP</h4>            
             <ul>
                 <li>기간 : 2025.07.01 ~ (진행 중)</li>
-                <li>인원 : 개인</li> 
+                <li>인원 : 1명(개인)</li> 
                 <li>링크 : <a href="https://github.com/ithodol/readme">ReadMe</a></li>
             </ul>
         </div>  <br><br>
